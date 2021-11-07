@@ -5,13 +5,13 @@ import '../src/Navbar.css';
 function Navvy(){
     return(
         <nav className="navbar">
-            <h className="headernav">PC</h>
+            <h className="headernav">ElloBot</h>
             <ul>
-                <li className="start"><Link to="#" style={{ textDecoration: 'none' }}>Get Started</Link></li>
-                <li><Link to="/Help" style={{ textDecoration: 'none' }}>Help</Link></li>
-                <li><Link to="/Guide" style={{ textDecoration: 'none' }}>Guide</Link></li>
-                <li><Link to="/Build" style={{ textDecoration: 'none' }}>Build</Link></li>
-                <li><Link to="/" style={{ textDecoration: 'none' }}>Home</Link></li>
+                <li><Link className="start" to="/Contact" style={{ textDecoration: 'none' }}>Contact</Link></li>
+                <li><Link className="start" to="/ElloBot" style={{ textDecoration: 'none' }}>ElloBot</Link></li>
+                <li><Link className="start" to="/Tech" style={{ textDecoration: 'none' }}>Tech</Link></li>
+                <li><Link className="start" to="/About" style={{ textDecoration: 'none' }}>About</Link></li>
+                <li><Link className="start" to="/" style={{ textDecoration: 'none' }}>Home</Link></li>
             </ul>
         </nav>
     );

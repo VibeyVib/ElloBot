@@ -1,11 +1,11 @@
 import react from "react";
 
-function Help(){
+function About(){
     return(
         <div className="Hi">
-            <h1>Hello Help</h1>
+            <h1>Hello About</h1>
         </div>
     );
 }
 
-export default Help;
+export default About;

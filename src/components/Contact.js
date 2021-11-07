@@ -1,11 +1,11 @@
 import react from "react";
 
-function Build(){
+function Contact(){
     return(
         <div className="Hi">
-            <h1>Hello Build</h1>
+            <h1>Hello Contact</h1>
         </div>
     );
 }
 
-export default Build;
+export default Contact;

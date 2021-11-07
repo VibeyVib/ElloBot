@@ -1,11 +1,11 @@
 import react from "react";
 
-function Guide(){
+function Tech(){
     return(
         <div className="Hi">
-            <h1>Hello Guide</h1>
+            <h1>Tech</h1>
         </div>
     );
 }
 
-export default Guide;
+export default Tech;
