@@ -1,6 +1,5 @@
 .navbar ul{
-    background-color: black;
-    color: white;
+    color: black;
     list-style-type: none;
     text-decoration: none;
     flex:row;
@@ -8,12 +7,12 @@
     margin-right: 50px;
 }
 body{
-    background-color: black;
+    background-color: white;
 
 }
 .navbar{
-    background-color: black;
-    color: white;
+    
+    color: rgba(134,208,198,255);
     margin-bottom: 10px;
     position: relative;
 }
@@ -28,11 +27,11 @@ body{
     font-size: 18px;
     text-decoration: none;
     display: block;
-    color: white;
+    color: black;
     
 }
 .headernav{
-    background-color: black;
+    color: black;
 
     position: relative;
     font-size:30px;
@@ -45,11 +44,10 @@ font-family: 'Open Sans', sans-serif;
     float: left;
 }
 .start{
-   color: white;
+   color: black;
 }
 .start:hover{
-    border-bottom: white;
+    border-bottom: rgba(134,208,198,255);
     border-bottom-width: 4px;
     border-bottom-style: solid;
-    transition: 0.5s;
 }

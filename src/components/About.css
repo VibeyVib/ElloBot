@@ -1,0 +1,22 @@
+.elloimg{
+    width: 700px;
+    margin-left: -50px;
+    height: 600px;
+}
+.herocont{
+    position: relative;
+    margin-left: 700px;
+    margin-top: -450px;
+}
+.herocont{
+    font-size: 36px;
+    font-family: 'Irish Grover', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Roboto', sans-serif;
+color: rgba(134,208,198,255);
+border-bottom-style: solid;
+border-bottom-color: rgba(134,208,198,255);
+
+}
