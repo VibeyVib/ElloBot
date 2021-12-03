@@ -1,0 +1,47 @@
+.team-header{
+    margin-top: 100px;
+    position: absolute;
+    color: rgba(134,208,198,255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    margin-left: 460px;
+}
+.team-card{
+    margin-top: 550px;
+    display: flex;
+    margin-left: 320px;
+    position: absolute;
+}
+.card1, .card2, .card3{
+    padding-right: 150px;
+}
+.team-name{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-left: -30px;
+}
+.team-name1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-bottom: 200px;
+}
+.pics-team{
+    margin-top: -250px;
+    margin-left: -80px;
+    width: 300px;
+    position: relative;
+    height: 330px;
+    border-radius: 250px;
+}
+.shape{
+    background-color: rgba(134,208,198,255);
+    transform: rotate(39deg);
+    border-radius: 30px;
+    color: rgba(134,208,198,255);
+    width: 400px;
+    height: 400px;
+    margin-left: -250px;
+    margin-top: 300px;
+    position: absolute;
+}

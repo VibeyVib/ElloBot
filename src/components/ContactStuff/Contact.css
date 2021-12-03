@@ -1,0 +1,27 @@
+.contact-stuff{
+    
+    margin-top: 100px;
+    position: absolute;
+}
+.ellocontact{
+    height: 600px;
+    width: 600px;
+    position: absolute;
+}
+.contact-us{
+    margin-left: 850px;
+    font-size: 50px;
+    margin-top: 200px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(134,208,198,255);
+}
+.contact-description{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left: 850px;
+}
+.contact-email{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left: 850px;
+}
