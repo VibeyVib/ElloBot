@@ -20,8 +20,6 @@ function App() {
     <Route exact path="/Contact" component={Contact}/>
     <Route exact path="/" component={Home}/>
     <Route exact path="/Team" component={Team}/>
-
-
     </>
   );
 }
